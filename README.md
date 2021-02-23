@@ -20,14 +20,14 @@ Echo是一个分布式的代理共享和管理系统，以长链接的方式连�
 
 # 多项目友情链接(商务合作+v: virjar1 )
 
-|项目|介绍|github|gitee|virjar|
+|项目|介绍|地址|
 |--|--|--|--|--|
-|echo|分布式代理ip共享集群|https://github.com/virjar/echo/|https://gitee.com/virjar/echo|https://git.virjar.com/echo/echo|
-|sekiro|基于长链接和代码注入的Android private API暴露框架|https://github.com/virjar/sekiro|||
-|ratel|Android重打包注入引擎|||https://git.virjar.com/ratel/ratel-doc|
-|zelda|app多开分身的另一种实现|https://github.com/virjar/zelda|||
-|geeEtacsufbo|极验滑块js代码脱壳-js控制流平坦化反混淆(最早使用AST解除JS流程混淆的项目)|https://github.com/virjar|||
-|thanos|java爬虫调度系统，让java爬虫重回巅峰！！(开发中)|https://github.com/virjar/thanos|||
+|echo|分布式代理ip共享集群|https://git.virjar.com/echo/echo|
+|sekiro|基于长链接和代码注入的Android private API暴露框架|https://github.com/virjar/sekiro|
+|ratel|Android重打包注入引擎|https://git.virjar.com/ratel/ratel-doc|
+|zelda|app多开分身的另一种实现|https://github.com/virjar/zelda|
+|geeEtacsufbo|极验滑块js代码脱壳-js控制流平坦化反混淆(最早使用AST解除JS流程混淆的项目)|https://github.com/virjar|
+|thanos|java爬虫调度系统，让java爬虫重回巅峰！！(开发中)|https://github.com/virjar/thanos|
 
 # 章节目录
 
