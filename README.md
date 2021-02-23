@@ -11,8 +11,9 @@ Echo是一个分布式的代理共享和管理系统，以长链接的方式连�
 7. 终端命令控制，你可以通过http接口将特定指令下发到对应终端.实现如shell执行、ip重播等需求。
 
 # 多平台镜像地址
-｜平台｜地址｜备注｜
-｜--｜--｜--｜
+
+|平台|地址|备注|
+|--|--|--|
 |github|https://github.com/virjar/echo/|国际|
 |gitee|https://gitee.com/virjar/echo|国内|
 |virjar|https://git.virjar.com/echo/echo|主地址|
